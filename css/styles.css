@@ -15,7 +15,7 @@ body {
 .bark2 {
   float: left;
   margin: auto;
-  margin-right: 2px;
+  margin-right:2px;
   background-color: #730f1f;
   width: 33%;
   box-sizing:border-box;
@@ -28,4 +28,23 @@ body {
   background-color: #008aba;
   width: 33%;
   box-sizing:border-box;
+}
+
+.bark img {
+  width:100%;
+  height:auto;
+}
+
+.bark2 img {
+  width:100%;
+  height:auto;
+}
+
+.bark3 img {
+  width:100%;
+  height:auto;
+}
+
+h3{
+  text-align: center;
 }
