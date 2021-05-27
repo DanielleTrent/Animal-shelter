@@ -1,0 +1,31 @@
+body {
+  font-family: georgia;
+  background-color: #f2ad78;
+}
+
+.bark {
+  float: left;
+  margin: auto;
+  margin-right: 2px;
+  background-color: #718600;
+  width:33%;
+  box-sizing:border-box;
+}
+
+.bark2 {
+  float: left;
+  margin: auto;
+  margin-right: 2px;
+  background-color: #730f1f;
+  width: 33%;
+  box-sizing:border-box;
+}
+
+.bark3{
+  float: left;
+  margin: auto;
+  margin-right: 2px;
+  background-color: #008aba;
+  width: 33%;
+  box-sizing:border-box;
+}
